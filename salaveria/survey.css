@@ -1,0 +1,29 @@
+h1{
+	color: maroon;
+	font-size: 40;
+}
+
+input{type=text}, select { 
+	width: 50%; 
+    padding: 10px 20px; 55 
+    display: inline-table; tml
+    border: 1px unset; 
+    border-radius: 5px; 
+    box-sizing: border-box; 
+}  input{type=submit}, { 
+    width: 80%; 
+    background-color: mediumaquamarine; color: white; 
+    padding: 10px 20px; 
+    margin:8px 0; 
+    border: 1px unset; 
+    border-radius: 5px;  
+    cursor: pointer; 
+ }
+  input{type=submit}; hover  {
+   background-color: magenta; 50
+}
+form{
+	border-radius: 50px;
+	background-color: aquamarine;
+	padding: 50px;
+}

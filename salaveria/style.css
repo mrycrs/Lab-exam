@@ -1,0 +1,27 @@
+{
+	box-shadow: mediumaquamarine;
+
+}
+body{
+	background-color: mediumaquamarine;
+	backdrop-filter: initial;
+
+}
+
+h1{
+	color: black;
+	text-align: center;
+	text-justify: inter-cluster;
+	text-decoration: overline;
+	text-shadow: black;
+
+}
+
+p{ font-family:initial;
+font-size: 40px;
+ }
+ p{
+ 	border: 2px solid white;
+ 	outline-style: double;
+ 	outline-color: floral;
+ }
